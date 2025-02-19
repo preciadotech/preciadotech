@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/preciadotech/ActiveDirectoryLab/tree/main)
+- <b>Active Directory Domain Services Lab (AlgoExpert)</b>
+  - [Active Directory Domain Services Lab](https://github.com/preciadotech/ActiveDirectoryLab/tree/main)
 
 <h2>📺 Certifications</h2>
 
