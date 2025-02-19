@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Active Directory Domain Services Lab (AlgoExpert)</b>
+- <b>Active Directory Domain Services Lab </b>
   - [Active Directory Domain Services Lab](https://github.com/preciadotech/ActiveDirectoryLab/tree/main)
 
 <h2>📺 Certifications</h2>
