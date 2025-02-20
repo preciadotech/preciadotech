@@ -4,6 +4,9 @@
 
 - <b>Active Directory Domain Services Lab </b>
   - [Active Directory Domain Services Lab](https://github.com/preciadotech/ActiveDirectoryLab/tree/main)
+    
+  - - <b>Jira Service Management Lab </b>
+  - [Jira Service Management Lab](https://github.com/preciadotech/Jira)
 
 <h2>📺 Certifications</h2>
 
